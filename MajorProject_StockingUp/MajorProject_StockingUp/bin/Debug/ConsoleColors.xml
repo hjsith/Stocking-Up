@@ -1,0 +1,311 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ConsoleColors</name>
+    </assembly>
+    <members>
+        <member name="T:ConsoleColors.Bkgrd">
+            Container class for all available background colors
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.Default">
+            Default background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.Black">
+            Black background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.White">
+            White background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.Red">
+            Red background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.Green">
+            Green background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.Yellow">
+            Yellow background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.Blue">
+            Blue background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.Magenta">
+            Magenta background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.Cyan">
+            Cyan background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.LtGray">
+            Light gray background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.DrkGray">
+            Dark gray background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.LtRed">
+            Light red background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.LtGreen">
+            Light green background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.LtYellow">
+            Light yellow background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.LtBlue">
+            Light blue background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.LtMagenta">
+            Light magenta background ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Bkgrd.LtCyan">
+            Light cyan background ANSI code (format strings with it)
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetDefault">
+            Set background color to default without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetBlack">
+            Set background color to black without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetWhite">
+            Set background color to white without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetRed">
+            Set background color to red without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetGreen">
+            Set background color to green without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetYellow">
+            Set background color to yellow without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetBlue">
+            Set background color to blue without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetMagenta">
+            Set background color to magenta without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetCyan">
+            Set background color to cyan without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetLtGray">
+            Set background color to light gray without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetDrkGray">
+            Set background color to dark gray without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetLtRed">
+            Set background color to light red without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetLtGreen">
+            Set background color to light green without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetLtYellow">
+            Set background color to light yellow without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetLtBlue">
+            Set background color to light blue without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.SetLtMagenta">
+            Set background color to light magenta without printing
+        </member>
+        <member name="M:ConsoleColors.Bkgrd.ToArray">
+            Returns all available background colors as an array
+        </member>
+        <member name="T:ConsoleColors.Clr">
+            Container class for all available foreground colors
+        </member>
+        <member name="F:ConsoleColors.Clr.Default">
+            Default foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.Black">
+            Black foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.White">
+            White foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.Red">
+            Red foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.Green">
+            Green foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.Yellow">
+            Yellow foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.Blue">
+            Blue foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.Magenta">
+            Magenta foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.Cyan">
+            Cyan foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.LtGray">
+            Light gray foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.DrkGray">
+            Dark gray foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.LtRed">
+            Light red foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.LtGreen">
+            Light green foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.LtYellow">
+            Light yellow foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.LtBlue">
+            Light blue foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.LtMagenta">
+            Light magenta foreground ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Clr.LtCyan">
+            Light cyan foreground ANSI code (format strings with it)
+        </member>
+        <member name="M:ConsoleColors.Clr.SetDefault">
+            Set foreground color to default without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetBlack">
+            Set foreground color to black without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetWhite">
+            Set foreground color to white without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetRed">
+            Set foreground color to red without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetGreen">
+            Set foreground color to green without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetYellow">
+            Set foreground color to yellow without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetBlue">
+            Set foreground color to blue without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetMagenta">
+            Set foreground color to magenta without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetCyan">
+            Set foreground color to cyan without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetLtGray">
+            Set foreground color to light gray without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetDrkGray">
+            Set foreground color to dark gray without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetLtRed">
+            Set foreground color to light red without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetLtGreen">
+            Set foreground color to light green without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetLtYellow">
+            Set foreground color to light yellow without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetLtBlue">
+            Set foreground color to light blue without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetLtMagenta">
+            Set foreground color to light magenta without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.SetLtCyan">
+            Set foreground color to light cyan without printing
+        </member>
+        <member name="M:ConsoleColors.Clr.ToArray">
+            Returns all available foreground colors as an array
+        </member>
+        <member name="T:ConsoleColors.Frmt">
+            Container class for all available formatting options
+        </member>
+        <member name="F:ConsoleColors.Frmt.Bold">
+            Bold ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.Dim">
+            Dim ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.Underline">
+            Underline ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.Invert">
+            Invert ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.Hidden">
+            Hidden ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.UnBold">
+            Reset bold ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.UnDim">
+            Reset dim ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.UnUnderline">
+            Reset underline ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.UnInvert">
+            Reset invert ANSI code (format strings with it)
+        </member>
+        <member name="F:ConsoleColors.Frmt.UnHidden">
+            Reset hidden ANSI code (format strings with it)
+        </member>
+        <member name="M:ConsoleColors.Frmt.SetBold">
+            Enable bold formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.SetDim">
+            Enable dim formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.SetUnderline">
+            Enable underline formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.SetInvert">
+            Enable inverted formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.SetHidden">
+            Enable hidden formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.UnsetBold">
+            Disable bold formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.UnsetDim">
+            Disable dim formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.UnsetUnderline">
+            Disable underline formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.UnsetInvert">
+            Disable inverted formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.UnsetHidden">
+            Disable hidden formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.UnsetAll">
+            Disable all formatting without printing
+        </member>
+        <member name="M:ConsoleColors.Frmt.ToArray">
+            Returns all available formatting options as an array
+        </member>
+        <member name="T:ConsoleColors.Printer">
+            ANSI-color compatible printer; use string formatting while calling Write() or WriteLine()
+        </member>
+        <member name="M:ConsoleColors.Printer.Write(System.String)">
+            Print the given colorized string without a new line at the end
+        </member>
+        <member name="M:ConsoleColors.Printer.WriteLine(System.String)">
+            Print the given colorized string with a new line at the end
+        </member>
+        <member name="M:ConsoleColors.Printer.SayHello">
+            Color print the library name and version
+        </member>
+        <member name="T:ConsoleColors.Reset">
+            Container class for resetting all formatting and colors
+        </member>
+        <member name="F:ConsoleColors.Reset.Code">
+            All attribute reset ANSI code (format strings with it)
+        </member>
+        <member name="M:ConsoleColors.Reset.All">
+            Disable all formatting and reset colors without printing
+        </member>
+    </members>
+</doc>

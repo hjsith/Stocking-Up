@@ -1,0 +1,58 @@
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.vbprojResolveAssemblyReference.cache
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.Home.resources
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.MyPortfolio.resources
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.Resources.resources
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.Settings.resources
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.Simulation.resources
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.vbproj.GenerateResource.Cache
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.vbproj.CoreCompileInputs.cache
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\client_secret.json
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Stocking Up.exe.config
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Stocking Up.exe.manifest
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Stocking Up.application
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Stocking Up.exe
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Stocking Up.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Stocking Up.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\EntityFramework.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Auth.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Core.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Sheets.v4.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\EntityFramework.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Auth.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Core.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Core.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Sheets.v4.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Google.Apis.Sheets.v4.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking Up.exe.manifest
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking Up.application
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking Up.exe
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking Up.xml
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking Up.pdb
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\TheRe\Desktop\Hasith\MAJOR PROJECT\Stocking Up\MajorProject_StockingUp\MajorProject_StockingUp\obj\Debug\Stocking_Up.vbproj.ResolveComReference.cache

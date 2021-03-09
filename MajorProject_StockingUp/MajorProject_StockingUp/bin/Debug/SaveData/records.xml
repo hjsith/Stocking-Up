@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet>
+  <xs:schema id="AllRecords" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="AllRecords" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Record">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Biggest_x0020_Profit" type="xs:string" minOccurs="0" />
+                <xs:element name="Biggest_x0020_Loss" type="xs:string" minOccurs="0" />
+                <xs:element name="Longest_x0020_Session" type="xs:string" minOccurs="0" />
+                <xs:element name="Shortest_x0020_Session" type="xs:string" minOccurs="0" />
+                <xs:element name="Total_x0020_Money_x0020_Made" type="xs:string" minOccurs="0" />
+                <xs:element name="Total_x0020_Money_x0020_Lost" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <AllRecords>
+      <Record diffgr:id="Record1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+        <Biggest_x0020_Profit>0</Biggest_x0020_Profit>
+        <Biggest_x0020_Loss>0</Biggest_x0020_Loss>
+        <Longest_x0020_Session>00:01:16.9680150</Longest_x0020_Session>
+        <Shortest_x0020_Session>00:00:00</Shortest_x0020_Session>
+        <Total_x0020_Money_x0020_Made>0</Total_x0020_Money_x0020_Made>
+        <Total_x0020_Money_x0020_Lost>0</Total_x0020_Money_x0020_Lost>
+      </Record>
+    </AllRecords>
+  </diffgr:diffgram>
+</DataSet>

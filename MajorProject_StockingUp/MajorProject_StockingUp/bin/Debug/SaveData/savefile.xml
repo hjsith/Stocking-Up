@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet>
+  <xs:schema id="AllPurchases" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="AllPurchases" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Purchases">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="Code" type="xs:string" minOccurs="0" />
+                <xs:element name="Number_x0020_of_x0020_Stocks" type="xs:string" minOccurs="0" />
+                <xs:element name="Purchase_x0020_Rate" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <AllPurchases>
+      <Purchases diffgr:id="Purchases1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+        <Code>A2M</Code>
+        <Number_x0020_of_x0020_Stocks>10</Number_x0020_of_x0020_Stocks>
+        <Purchase_x0020_Rate>106.5</Purchase_x0020_Rate>
+      </Purchases>
+    </AllPurchases>
+  </diffgr:diffgram>
+</DataSet>

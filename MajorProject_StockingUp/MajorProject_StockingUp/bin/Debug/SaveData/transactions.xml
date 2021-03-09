@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DataSet>
+  <xs:schema id="AllTransactions" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="AllTransactions" msdata:IsDataSet="true" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Transaction">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="TransactionID" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="Code" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="CompanyName" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="Value" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="Number_x0020_of_x0020_Shares" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="Buy_x0020_or_x0020_Sell_x003F_" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="Amount" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="Final_x0020_Balance" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+                <xs:element name="DateTime_x0020_of_x0020_Transaction" msdata:ReadOnly="true" type="xs:string" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+    </xs:element>
+  </xs:schema>
+  <diffgr:diffgram xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:diffgr="urn:schemas-microsoft-com:xml-diffgram-v1">
+    <AllTransactions>
+      <Transaction diffgr:id="Transaction1" msdata:rowOrder="0" diffgr:hasChanges="inserted">
+        <TransactionID>0</TransactionID>
+        <Code>A2M</Code>
+        <CompanyName>The a2 Milk Company</CompanyName>
+        <Value>10.65</Value>
+        <Number_x0020_of_x0020_Shares>10</Number_x0020_of_x0020_Shares>
+        <Buy_x0020_or_x0020_Sell_x003F_>Buy</Buy_x0020_or_x0020_Sell_x003F_>
+        <Amount>106.5</Amount>
+        <Final_x0020_Balance>5.2</Final_x0020_Balance>
+        <DateTime_x0020_of_x0020_Transaction>15/06/2018 2:49:31 AM</DateTime_x0020_of_x0020_Transaction>
+      </Transaction>
+    </AllTransactions>
+  </diffgr:diffgram>
+</DataSet>
